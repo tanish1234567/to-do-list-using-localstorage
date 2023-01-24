@@ -1,0 +1,9 @@
+.cont{
+    width: 70%;
+    margin: auto;
+}
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
